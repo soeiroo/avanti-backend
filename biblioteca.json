@@ -1,12 +1,56 @@
 [
-  { "id": 1, "titulo": "Matrix", "genero": "Ficção", "favorito": true },
-  { "id": 2, "titulo": "O Poderoso Chefão", "genero": "Drama", "favorito": false },
-  { "id": 3, "titulo": "Toy Story", "genero": "Animação", "favorito": true },
-  { "id": 4, "titulo": "Vingadores", "genero": "Ação", "favorito": false },
-  { "id": 5, "titulo": "Interestelar", "genero": "Ficção", "favorito": true },
-  { "id": 6, "titulo": "Clube da Luta", "genero": "Drama", "favorito": false },
-  { "id": 7, "titulo": "Coco", "genero": "Animação", "favorito": true },
-  { "id": 8, "titulo": "Homem-Aranha", "genero": "Ação", "favorito": false },
-  { "id": 9, "titulo": "Divertidamente", "genero": "Animação", "favorito": true },
-  { "id": 10, "titulo": "Gladiador", "genero": "Drama", "favorito": true }
+  {
+    "id": 1,
+    "titulo": "Matrix",
+    "genero": "Ficção",
+    "favorito": true
+  },
+  {
+    "id": 2,
+    "titulo": "O Poderoso Chefão",
+    "genero": "Drama",
+    "favorito": false
+  },
+  {
+    "id": 3,
+    "titulo": "Toy Story",
+    "genero": "Animação",
+    "favorito": true
+  },
+  {
+    "id": 4,
+    "titulo": "Vingadores",
+    "genero": "Ação",
+    "favorito": false
+  },
+  {
+    "id": 5,
+    "titulo": "Interestelar",
+    "genero": "Ficção",
+    "favorito": true
+  },
+  {
+    "id": 6,
+    "titulo": "Clube da Luta",
+    "genero": "Drama",
+    "favorito": false
+  },
+  {
+    "id": 7,
+    "titulo": "Coco",
+    "genero": "Animação",
+    "favorito": true
+  },
+  {
+    "id": 8,
+    "titulo": "Homem-Aranha",
+    "genero": "Ação",
+    "favorito": false
+  },
+  {
+    "id": 9,
+    "titulo": "Divertidamente",
+    "genero": "Animação",
+    "favorito": true
+  }
 ]
